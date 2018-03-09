@@ -6,5 +6,8 @@ public class Hello {
 		System.out.println("hello");
 		System.out.println("hahah");
 		System.out.println("李小萌你个XX");
+		System.out.println("world");
 	}
+	
+	
 }
